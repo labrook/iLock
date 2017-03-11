@@ -36,6 +36,7 @@ var lockedState = 2200;
 var motorPin = 14;
 var buttonPin = 4
 // var ledPin = 17
+// change to pin #26 for easy installation on solderless plug-in breadboard
 var ledPin = 26
 
 var blynkToken = 'Your own Blynk App Token';
